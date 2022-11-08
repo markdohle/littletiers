@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "lowdb is awsome",
+      "published": true
+    },
+    {
+      "id": 1,
+      "title": "lowdb is awsome",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "resentment",
+      "published": true
+    },
+    {
+      "id": 6,
+      "title": "revenge",
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "gratitude",
+      "published": true
+    },
+    {
+      "id": 5,
+      "title": "love",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "resentment",
+      "published": true
+    },
+    {
+      "id": 6,
+      "title": "revenge",
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "gratitude",
+      "published": true
+    },
+    {
+      "id": 5,
+      "title": "love",
+      "published": true
+    },
+    {
+      "id": "1",
+      "title": "ping",
+      "published": "false"
+    },
+    {
+      "id": "21",
+      "title": "basic",
+      "published": "true"
+    },
+    {
+      "id": "21",
+      "title": "basic",
+      "published": "true"
+    },
+    {
+      "id": "33",
+      "title": "advanced",
+      "published": "true"
+    }
+  ]
+}
